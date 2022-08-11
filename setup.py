@@ -14,7 +14,7 @@ install_requires = (this_directory / "requirements.txt").read_text().splitlines(
 
 setup(
     name="jpeg_xl_float_with_nans",
-    version="0.0.1",
+    version="0.0.2",
     license="MIT",
     description="""JpegXlFloatWithNaNs is a codec for numcodecs for compressing image data in Zarr/Xarray""",
     author="Jacob Bieker, Jack Kelly",
