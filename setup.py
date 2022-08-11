@@ -13,7 +13,7 @@ long_description = (this_directory / "README.md").read_text()
 
 setup(
     name="jpeg_xl_float_with_nans",
-    version="0.0.2",
+    version="0.0.3",
     license="MIT",
     description="""JpegXlFloatWithNaNs is a codec for numcodecs for compressing image data in Zarr/Xarray""",
     author="Jacob Bieker, Jack Kelly",
